@@ -1,0 +1,11 @@
+.top
+{ text-align: center;
+background-image: url(./tle1.jpg); 
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+h1{color: chartreuse; text-shadow: 10px 10px 10px red; opacity: 1;}
+.navbar{color: white;}
+.tagline{color: gold;}
+button{color: greenyellow; background-color: chocolate;}
