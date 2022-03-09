@@ -9,3 +9,20 @@ h1{color: chartreuse; text-shadow: 10px 10px 10px red; opacity: 1;}
 .navbar{color: white;}
 .tagline{color: gold;}
 button{color: greenyellow; background-color: chocolate;}
+.person
+{ size: 100px;
+position: absolute; left: 50px;
+color: black;
+}
+.dj
+{size: 100px;
+    position: absolute; left: 150px;
+}
+.place
+{size: 100px;
+    position: absolute; left: 600px;
+}
+.community
+{size: 100px;
+    position: absolute; left: 700px;
+}
